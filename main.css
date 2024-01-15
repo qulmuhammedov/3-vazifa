@@ -1,0 +1,28 @@
+.container{
+    max-width: 1210px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+.header{
+    display: flex;
+    align-items: center;
+}
+.header_logo{
+    width: 236px;
+    height: 26px;
+    display: flex;
+}
+.header_ul{
+    display: flex;
+    color: #83888F;
+    text-decoration: none;
+}
+.header_ul--a{
+    color: #83888F;
+    text-decoration: none;
+    margin: 33px;
+    display: flex;
+    align-items: center;
+    transform: translateX(619px);
+}
